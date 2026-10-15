@@ -1,0 +1,7 @@
+Screenshot Blocker prevents screenshots and screen recording, either in all apps or only in the apps you choose.
+
+* Runs quietly in the background as a lightweight foreground service
+* Pick exactly which apps to protect
+* Dark interface
+* No internet permission, no tracking, no ads, no history or logs
+* Only the permissions it needs: display over other apps, usage access (to detect the current app), and a notification

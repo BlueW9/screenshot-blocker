@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">مانع لقطات الشاشة</string>
+    <string name="status_on">الحماية مفعّلة</string>
+    <string name="status_off">الحماية متوقفة</string>
+    <string name="btn_on">تفعيل</string>
+    <string name="btn_off">إيقاف</string>
+    <string name="mode_all">منع اللقطات في كل التطبيقات</string>
+    <string name="pick">اختيار التطبيقات</string>
+    <string name="perm_overlay">السماح بالعرض فوق التطبيقات</string>
+    <string name="perm_usage">السماح بالوصول لبيانات الاستخدام (لمعرفة التطبيق الحالي)</string>
+    <string name="need_perms">امنح الصلاحيات المطلوبة أولًا</string>
+    <string name="notif_title">حماية لقطات الشاشة تعمل</string>
+    <string name="notif_text">اضغط لفتح الإعدادات</string>
+    <string name="picker_title">اختر التطبيقات المراد حمايتها</string>
+    <string name="privacy">بلا إنترنت · بلا تتبع · بلا سجل</string>
+</resources>

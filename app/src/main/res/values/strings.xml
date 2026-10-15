@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Screenshot Blocker</string>
+    <string name="status_on">Protection is on</string>
+    <string name="status_off">Protection is off</string>
+    <string name="btn_on">Turn on</string>
+    <string name="btn_off">Turn off</string>
+    <string name="mode_all">Block screenshots in all apps</string>
+    <string name="pick">Choose apps</string>
+    <string name="perm_overlay">Allow display over other apps</string>
+    <string name="perm_usage">Allow usage access (detect current app)</string>
+    <string name="need_perms">Grant the required permissions first</string>
+    <string name="notif_title">Screenshot protection is active</string>
+    <string name="notif_text">Tap to open settings</string>
+    <string name="picker_title">Choose apps to protect</string>
+    <string name="privacy">No internet · No tracking · No history</string>
+</resources>

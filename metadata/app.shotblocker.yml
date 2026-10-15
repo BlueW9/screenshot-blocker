@@ -1,0 +1,23 @@
+Categories:
+  - Security
+License: MIT
+AuthorName: BlueW9
+SourceCode: https://github.com/BlueW9/screenshot-blocker
+IssueTracker: https://github.com/BlueW9/screenshot-blocker/issues
+AutoName: Screenshot Blocker
+
+RepoType: git
+Repo: https://github.com/BlueW9/screenshot-blocker.git
+
+Builds:
+  - versionName: 1.0.0
+    versionCode: 1
+    commit: v1.0.0
+    subdir: app
+    gradle:
+      - yes
+
+AutoUpdateMode: Version
+UpdateCheckMode: Tags
+CurrentVersion: 1.0.0
+CurrentVersionCode: 1
