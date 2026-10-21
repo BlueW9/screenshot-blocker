@@ -36,5 +36,5 @@ android {
     dependenciesInfo { includeInApk = false; includeInBundle = false }
 }
 dependencies {
-    implementation("androidx.appcompat:appcompat:1.7.0")
+    implementation("androidx.appcompat:appcompat:1.8.0")
 }
